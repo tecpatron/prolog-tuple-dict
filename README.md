@@ -1,6 +1,6 @@
 # Ontología familiar
 
-Ejemplo que consiste en un árbol genealógico. Los hechos describen quién es padre de quién. Las reglas permiten deducir relaciones de hijo, abuelo, hermanos
+Ejemplo que consiste en un árbol genealógico. Los hechos describen quién es padre de quién. Las reglas permiten deducir relaciones de hijo, abuelo y hermanos.
 
 ## HECHOS
 
